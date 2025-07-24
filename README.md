@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in Web Development.
 - 🧠 Currently learning **DSA** the **Web** **Development**.
-- 📫 How to reach me: [yash.tiwari@example.com]
+- 📫 How to reach me: [yashtiwari1409@example.com]
 
 ---
 
